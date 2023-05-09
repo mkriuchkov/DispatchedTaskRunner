@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <RootNamespace>DispatchedTasksRunner</RootNamespace>
+        <Version>0.0.1</Version>
+    </PropertyGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleUsage", "ExampleUsage\ExampleUsage.csproj", "{C36B0081-B67A-4713-9407-2C3B325BF474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DispatchedTasksRunner", "DispatchedTasksRunner\DispatchedTasksRunner.csproj", "{D109F0FF-37A4-4F05-AD63-CD542534C28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C36B0081-B67A-4713-9407-2C3B325BF474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36B0081-B67A-4713-9407-2C3B325BF474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36B0081-B67A-4713-9407-2C3B325BF474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36B0081-B67A-4713-9407-2C3B325BF474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D109F0FF-37A4-4F05-AD63-CD542534C28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D109F0FF-37A4-4F05-AD63-CD542534C28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D109F0FF-37A4-4F05-AD63-CD542534C28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D109F0FF-37A4-4F05-AD63-CD542534C28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
